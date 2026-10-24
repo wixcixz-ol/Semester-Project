@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+temp_tests/
+.idea/
+work/
+output/
+outputs/
+*.sqlite3
+*.py[cod]
+*.egg-info/
+.env
+dist/
+build/
+input/
+organized/
